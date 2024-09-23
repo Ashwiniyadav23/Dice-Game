@@ -1,10 +1,10 @@
 const image = [
-    "Images/dice1.png",  
-    "Images/dice2.png", 
-    "Images/dice3.png", 
-    "Images/dice4.png", 
-    "Images/dice5.png", 
-    "Images/dice6.png"
+    "dice1.png",  
+    "dice2.png", 
+    "dice3.png", 
+    "dice4.png", 
+    "dice5.png", 
+    "dice6.png"
 ];
 
 const element = document.getElementById("result"); 
